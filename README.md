@@ -39,4 +39,4 @@ In this project, I explored a real-world retail dataset to uncover patterns that
 
 **Ali Abdelhamid**  
 _Data Analyst | Passionate about storytelling with data_  
-🔗 [Connect on LinkedIn](www.linkedin.com/in/ali-abd-el-hamed-48495b320) 
+[Connect on LinkedIn(www.linkedin.com/in/ali-abd-el-hamed-48495b320) 
